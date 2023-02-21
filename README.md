@@ -7,6 +7,7 @@
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [Python](./algorithms/python/SquareSortedArr/squaresSortedArr.py) |Easy|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [Python](./algorithms/python/MiddeloftheLinkedList/middleofLinkedList.py) |Easy|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./algorithms/python/BinarySearch/BinarySearch.py) |Easy|
+|567|[Permutation in String](https://leetcode.com/problems/permutation-in-string) | [Python](./algorithms/python/PermutationString/permutationInString.py) |Medium|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [Python](./algorithms/python/ReverseWordsinaStringIII/reverseWordsinsString3.py) |Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string) | [Python](./algorithms/python/ReverseString/reverseString.py) |Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Python](./algorithms/python/MoveZeroes/moveZeroes.py) |Easy|
@@ -15,5 +16,6 @@
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [Python](./algorithms/python/InputArrayIsSorted/inputArrayisSorted.py) |Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [Python](./algorithms/python/RemoveNthNodeFromEnd/removeNthNode.py) |Medium|
 |5|[Search Insert Position](https://leetcode.com/problems/search-insert-position) | [Python](./algorithms/python/SearchInsertPosition/searchInsertPosition.py) |Easy|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Python](./algorithms/python/LongestSubstring/longestSubstring.py) |Medium|
 |1|[Two Sum](https://leetcode.com/problems/two-sum) | [Python](./algorithms/python/TwoSum/twoSum.py) |Easy|
 
