@@ -12,6 +12,7 @@
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | [Python](./algorithms/python/MeargeTwoBinaryTrees/mergeTwoBT.py) |Easy|
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string) | [Python](./algorithms/python/PermutationString/permutationInString.py) |Medium|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [Python](./algorithms/python/ReverseWordsinaStringIII/reverseWordsinsString3.py) |Easy|
+|542|[01 Matrix](https://leetcode.com/problems/01-matrix/) | [Python](./algorithms/python/01Matrix/01matrix.py) |Medium|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string) | [Python](./algorithms/python/ReverseString/reverseString.py) |Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Python](./algorithms/python/MoveZeroes/moveZeroes.py) |Easy|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version) | [Python](./algorithms/python/FirstBadVersion/FirstBadVersion.py) |Easy|
